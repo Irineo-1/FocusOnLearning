@@ -1,0 +1,17 @@
+.ocultaren
+{
+	display: inherit;
+}
+
+@media (max-width: 1024px)
+{
+	.ocultaren
+	{
+		display: none;
+	}
+}
+
+.ocultarinput
+{
+	display: none;
+}
